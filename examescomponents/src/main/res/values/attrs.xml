@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="StateView">
+        <attr name="stateMode" format="enum">
+            <enum name="normal" value="33"/>
+            <enum name="alternate" value="44"/>
+        </attr>
+        <attr name="stateTitle" format="string"/>
+        <attr name="stateTitleColor" format="color"/>
+        <attr name="stateMessage" format="string"/>
+        <attr name="stateMessageColor" format="color"/>
+        <attr name="messageGravity" format="enum">
+            <enum name="center" value="17"/>
+            <enum name="start" value="3"/>
+        </attr>
+
+        <attr name="stateIcon" format="reference"/>
+        <attr name="stateActionButtonText" format="string" />
+        <attr name="stateActionButtonColor" format="color" />
+        <attr name="stateActionButtonTextColor" format="color" />
+    </declare-styleable>
+
+
+
+
+
+</resources>

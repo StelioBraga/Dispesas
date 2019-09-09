@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exames Dialog</string>
+    <string name="sdf">
+        Lorem ipsum dolor sit amet, Id ornare arcu odio ut sem nulla pharetra diam sit. Felis eget nunc lobortis mattis aliquam faucibus. Placerat in egestas erat imperdiet sed. Porttitor massa id neque aliquam vestibulum morbi blandit.  Quisque id diam vel quam elementum pulvinar etiam non. Morbi non arcu risus quis varius quam quisque id diam. Sit amet facilisis magna etiam tempor orci eu. Aliquam ultrices sagittis orci a scelerisque purus semper eget.
+        Sit amet facilisis magna etiam tempor orci eu. Aliquam ultrices sagittis orci a scelerisque purus semper eget.
+    </string>
+
+    <string name="Unidade_chose">Selecione a Unidade</string>
+    <string-array name="Sp_unidade">
+        <item>Kg</item>
+        <item>Unidade</item>
+    </string-array>
+</resources>
